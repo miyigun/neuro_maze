@@ -1,5 +1,3 @@
-[🇹🇷 Türkçe için buraya tıklayın](README.tr.md)
-
 # NEURO-MAZE: Mantık Çekirdeği
 
 Siberpunk temalı, tarayıcı tabanlı 3D boru yönlendirme bulmaca oyunu. Three.js 3D motoru, neon görseller ve akıcı animasyonlar içeren tek sayfalık bir HTML uygulaması olarak geliştirilmiştir.
